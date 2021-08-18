@@ -4,7 +4,7 @@ I am the creator of some known communities.
 <h3>social media</h3>
    <a href="https://discord.com/users/686990422198845452" target"blank_"><img src="https://img.shields.io/badge/nowongame%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/21xdlchq5ldonozdb7rm2do4y?si=5436b468a3424bf7" target"blank_"><img src="https://img.shields.io/badge/nowongame%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/nowongame" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://github.com/nowongame" target"blank_"><img src="https://img.shields.io/badge/nowongame%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/nowongame" target"blank_"><img src="https://img.shields.io/badge/nowongame%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/turkiye"><img src="https://img.shields.io/badge/Discord%20Turkiye%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
