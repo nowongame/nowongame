@@ -9,7 +9,6 @@ I am the creator of some known communities.
  <a href="https://discord.gg/turkiye"><img src="https://img.shields.io/badge/Discord%20Turkiye%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/686990422198845452)](https://discord.com/users/686990422198845452)
 
 
   ## familiar things:
