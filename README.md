@@ -15,6 +15,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
  
 
-   <summary> Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=nowongame&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="%100" height="150px" alt="stats" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nowongame&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowongame&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
