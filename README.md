@@ -21,3 +21,6 @@ I am the creator of some known communities.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nowongame&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowongame&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/686990422198845452)](https://discord.com/users/686990422198845452)
