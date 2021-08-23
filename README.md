@@ -5,7 +5,6 @@ I am the creator of some known communities.
   <img src="https://lanyard-profile-readme.vercel.app/api/686990422198845452?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=nowongame&label=Ziyaretçi+Sayısı)
 [![Profile Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcnrad&count_bg=%230263A4&title_bg=%23002D53&icon=github.svg&icon_color=%23FFFFFF&title=ziyaretçiler&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
