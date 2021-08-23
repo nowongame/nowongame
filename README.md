@@ -1,6 +1,10 @@
 # Hi 👋 I'm nowongame!
 I am the creator of some known communities.
 
+<a href="https://discord.com/users/686990422198845452">
+  <img src="https://lanyard-profile-readme.vercel.app/api/686990422198845452?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=nowongame&label=Ziyaretçi+Sayısı)
 <h3>contact me</h3>
    <a href="https://discord.com/users/686990422198845452" target"blank_"><img src="https://img.shields.io/badge/nowongame%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -10,9 +14,7 @@ I am the creator of some known communities.
  <a href="https://discord.gg/turkiye"><img src="https://img.shields.io/badge/Discord%20Turkiye%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-<a href="https://discord.com/users/686990422198845452">
-  <img src="https://lanyard-profile-readme.vercel.app/api/686990422198845452?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
-</a>
+
 
 
 
