@@ -1,8 +1,7 @@
 # Hi 👋 I'm nowongame!
 I am the creator of some known communities.
 
- <a href="https://discord.com/users/686990422198845452" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/686990422198845452?bg=111111">
+
 
 [![Profile Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcnrad&count_bg=%230263A4&title_bg=%23002D53&icon=github.svg&icon_color=%23FFFFFF&title=ziyaretçiler&edge_flat=false)](https://discordturkiye.com)
 
