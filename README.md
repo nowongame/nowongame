@@ -5,7 +5,9 @@ I am the creator of some known communities.
 
 [![Profile Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcnrad&count_bg=%230263A4&title_bg=%23002D53&icon=github.svg&icon_color=%23FFFFFF&title=ziyaretçiler&edge_flat=false)](https://discordturkiye.com)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/686990422198845452)](https://discord.com/users/686990422198845452)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=dark&bg=0e0101&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
+
+
 
 <h3></h3>
    <a href="https://discord.com/users/686990422198845452" target"blank_"><img src="https://img.shields.io/badge/nowongame%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
