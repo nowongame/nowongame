@@ -1,5 +1,5 @@
-# Hi 👋 I'm nowongame!
-I am the creator of some known communities.
+# Hi 👋, nowongame is here!
+creator of some known communities.
 
 
 
