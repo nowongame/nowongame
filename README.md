@@ -1,4 +1,4 @@
-# Hi 👋, nowongame is here!
+# Hi, nowongame is here!
 creator of some known communities.
 
 
